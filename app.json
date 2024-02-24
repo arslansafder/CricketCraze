@@ -1,0 +1,10 @@
+{
+  "name": "CricketCraze",
+  "displayName": "CricketCraze",
+  
+   "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3088054203243732~9899039690"
+  
+  }
+
+}

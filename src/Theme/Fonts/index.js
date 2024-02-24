@@ -1,0 +1,16 @@
+export const Fonts = {
+  PopinsBold: 'Poppins-Bold',
+  PopinsMedium: 'Poppins-Medium',
+  PopinsRegular: 'Poppins-Regular',
+  PopinsSemiBold: 'Poppins-SemiBold',
+  QuicksandBold: 'Quicksand-Bold',
+  QuicksandMedium: 'Quicksand-Medium',
+  QuicksandRegular: 'Quicksand-Regular',
+  QuicksandSemiBold: 'Quicksand-SemiBold',
+  MavenProRegular: 'MavenPro-Regular',
+  MavenProMedium: 'MavenPro-Medium',
+  MavenProBold: 'MavenPro-Bold',
+  MavenProSemiBold: 'MavenPro-SemiBold',
+  shinzuregular: 'Shizuru-Regular',
+  inter: 'Inter-VariableFont_slnt,wght',
+};
